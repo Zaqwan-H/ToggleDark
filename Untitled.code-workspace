@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../pollster_project"
+		},
+		{
+			"path": "../../pollmaster"
+		},
+		{
+			"path": "../../PollSite"
+		},
+		{
+			"path": "../../polling"
+		},
+		{
+			"path": "../../test-react-number-one"
+		},
+		{
+			"path": "../../Profile Projects"
+		},
+		{
+			"path": ".."
+		}
+	]
+}
